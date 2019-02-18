@@ -93,19 +93,19 @@ public class TesteDeLivros {
 
 	
 		if (autorSubmarino.equals(autorAmericanas)) {
-			JOptionPane.showMessageDialog(null, "O autor do livro é igual nos sites da Americanas e Submarino!!");
+			//JOptionPane.showMessageDialog(null, "O autor do livro é igual nos sites da Americanas e Submarino!!");
 			System.out.println("O autor do livro é igual nos sites da Americanas e Submarino!");
 		} else {
-			JOptionPane.showMessageDialog(null, "O autor do livro é diferente no site da Americanas!!");
+			//JOptionPane.showMessageDialog(null, "O autor do livro é diferente no site da Americanas!!");
 			System.out.println("O autor do livro é diferente no site da Americanas!");
 		}
 		
 		if (autorCultura.equals(autorSubmarino)) {
-			JOptionPane.showMessageDialog(null, "O autor do livro é igual nos ambos os sites!!");
+			//JOptionPane.showMessageDialog(null, "O autor do livro é igual em ambos os sites!!");
 			System.out.println("O autor do livro é igual nos dois sites!");
 		} else {
 			
-			JOptionPane.showMessageDialog(null, "O autor do livro é diferente no site da Livraria Cultura!");
+			//JOptionPane.showMessageDialog(null, "O autor do livro é diferente no site da Livraria Cultura!");
 			System.out.println("O autor do livro é diferente no site da Livraria Cultura!");
 		}
 
