@@ -102,7 +102,7 @@ public class TesteDeLivros {
 		
 		if (autorCultura.equals(autorSubmarino)) {
 			//JOptionPane.showMessageDialog(null, "O autor do livro é igual em ambos os sites!!");
-			System.out.println("O autor do livro é igual nos dois sites!");
+			System.out.println("O autor do livro é igual em ambos os sites!");
 		} else {
 			
 			//JOptionPane.showMessageDialog(null, "O autor do livro é diferente no site da Livraria Cultura!");
